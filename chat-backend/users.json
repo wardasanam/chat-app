@@ -1,0 +1,10 @@
+{
+  "alice": {
+    "password": "$2b$10$7lQinvZZK/skyqvTEco9luNBwqKgy0qVljKJdB2QZ0g8a3RdphOKS",
+    "messages": []
+  },
+  "bob": {
+    "password": "$2b$10$AjmYhSvDw3hcD5eXrOY8w.bmZm5WiQd3h9Fvl88.2YSDBJ93bx5Ze",
+    "messages": []
+  }
+}
